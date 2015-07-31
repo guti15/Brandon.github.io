@@ -1,0 +1,61 @@
+/* Brandon G   Custom  CSS  */
+/* Last edited July 31, 2015 */
+
+
+/* nav Bar  */
+
+
+
+.navbar-default .navbar-nav > li > a{
+
+    color:#ecf0f1
+
+}
+.navbar-default .navbar-brand{
+    color: #ecf0f1;		/* clouds */
+
+}
+					 
+
+					 
+.navbar-custom{
+    background: #1e824c;	/*SALEM*/
+    font-family: Helvetica;
+    border-color: #1E824C;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a{ 
+    color: #ecf0f1;		/*Nephritis*/
+
+
+}
+
+.navbar-nav .open .dropdown-menu{
+
+    background-color:#1e824c	/*Salem*/
+
+    color:  #ecf0f1;		/*Nephritis*/
+}
+
+.body-custom{
+
+    background-color: #26A65B;	/*Crusta*/
+
+}
+
+.dropdown-menu .divider{
+    background-color: #E87E04;
+
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a{
+
+    color:   #ecf0f1;
+}
+
+.dropdown-menu{
+
+    background-color: #1e824c;
+}
+
+
+
