@@ -4,7 +4,11 @@
 
 /* nav Bar  */
 
+#brand{
 
+    color: #F27935;		/*color: jaffa*/
+    text-shadow: 2px 2px #F4B350;
+}
 
 .navbar-default .navbar-nav > li > a{
 
@@ -55,7 +59,19 @@
 .dropdown-menu{
 
     background-color: #1e824c;
+} 
+
+
+.img custom-img{
+    width: auto;
+    height: 100%;
+		 
+    max-height: 225px; 
+ 
 }
 
 
+.carousel-inner img{
 
+    margin: auto;
+}
