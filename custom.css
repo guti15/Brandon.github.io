@@ -75,3 +75,18 @@
 
     margin: auto;
 }
+
+
+#mission-statemnt{		/*spelled funny*/
+    color: #F27935;
+    text-shadow:  2px 2px #F4B350;
+    
+}
+
+#mission-statemnet-sent{	/*spelled funny*/
+   font-size: 150%;
+    color: #fff;
+    text-align: center;
+
+
+}
