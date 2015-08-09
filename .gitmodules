@@ -1,0 +1,3 @@
+[submodule "coming-soon"]
+	path = coming-soon
+	url = https://github.com/ScoopThemes/coming-soon.git
