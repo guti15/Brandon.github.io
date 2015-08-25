@@ -8,6 +8,7 @@
 
     color: #F27935;		/*color: jaffa*/
     text-shadow: 2px 2px #F4B350;
+    font-family: 'Lobster' , Helvetica; 
 }
 
 .navbar-default .navbar-nav > li > a{
@@ -80,6 +81,7 @@
 #mission-statemnt{		/*spelled funny*/
     color: #F27935;
     text-shadow:  2px 2px #F4B350;
+    font-family: 'Lobster' , Helvetica; 
     
 }
 
