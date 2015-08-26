@@ -8,9 +8,13 @@
 
     color: #F27935;		/*color: jaffa*/
     text-shadow: 1px 1px #F4B350;
-    font-family: 'Lobster' , Helvetica; 
+    font-family: 'Lobster' , Helvetica;
+    text-align: center; 
 }
 
+
+    
+    
 .navbar-default .navbar-nav > li > a{
 
     color:#ecf0f1
@@ -20,9 +24,14 @@
     color: #ecf0f1;		/* clouds */
 
 }
-					 
 
-					 
+
+.navbar .navbar-collapse {
+    /* centers the text in Mobile version */
+  text-align: center;
+}
+
+
 .navbar-custom{
     background: #1e824c;	/*SALEM*/
     font-family: Helvetica;
